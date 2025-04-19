@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+section h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    font-size: 1.5em;
+}
+
+.contact-info, .education, .skills, .projects, .internships, .languages, .hobbies {
+    margin-bottom: 20px;
+}
+
+.contact-info li, .education li, .skills li, .projects li, .internships li, .languages li, .hobbies li {
+    margin: 5px 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+.qr-code {
+    text-align: center;
+    margin-top: 20px;
+}
